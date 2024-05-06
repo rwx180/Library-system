@@ -1,5 +1,5 @@
-#Library-system
-Library-system Our Project is a graduation project from Instant Software Solution diploma for Software Engineering Track.
+Library-system
+Our Project is a graduation project from Instant Software Solution diploma for Software Engineering Track.
 
 Project Description In this project we used C++ programming language, OOP for C++, data structure and SOLID principles to make cashier library system.
 
